@@ -6,7 +6,7 @@ class Command extends LineAPI {
 
     constructor() {
         super();
-        this.spamName = ['SONGGONG LO'];
+        this.spamName = [];
     }
 
     get payload() {
