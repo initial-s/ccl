@@ -3,7 +3,7 @@ const { Message, OpType, Location, Profile } = require('../curve-thrift/line_typ
 
 class LINE extends Command {
     get myBot() {
-        const bot = ['Remain this'];
+        const bot = ['u48b4ebd2407c6bb88df30b2645ddaa96'];
         return bot; 
     }
 
